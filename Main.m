@@ -33,3 +33,5 @@ K = [Omega^2 + epsilon*gamma      ,   beta*U_tilde^2-eta*gamma*lambda           
 Fq = [xi_h*y^3+epsilon*xi(y-x_tilde-lambda*alpha)^3                ;
     xi_alpha*alpha^3+epsilon*lambda*xi(x_tilde+lambda*alpha-y)^3 ;
     xi*(x_tilde+lambda*alpha-y)^3                                ];
+
+%% Routh stability analysis
