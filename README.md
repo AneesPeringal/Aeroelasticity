@@ -18,7 +18,3 @@ The project analyses the effect of a nonlinear vibration absorber in the case of
 Shared Drive: https://kuacae-my.sharepoint.com/:f:/g/personal/100060558_ku_ac_ae/EpCo-_h4ItxOkfNcOqP9o9ABGjuDHe_EjqtmQGoTWa4HAA?e=kG7RLe
 
 
-Islam's Token: ghp_vd8D67hV9ykSmYensaLVXmO6Fjas6b3kJ63
-
-
-Anees's Token: 
