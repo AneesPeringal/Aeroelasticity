@@ -8,11 +8,6 @@ The project analyses the effect of a nonlinear vibration absorber in the case of
 - Simulation on matlab
 - Visualize the data
 - Tuning the absorber using optimization.
-  
- # Publishing paper
- - Change the absorber type
- - Write the paper (References)
- - 
 
 
 Shared Drive: https://kuacae-my.sharepoint.com/:f:/g/personal/100060558_ku_ac_ae/EpCo-_h4ItxOkfNcOqP9o9ABGjuDHe_EjqtmQGoTWa4HAA?e=kG7RLe
